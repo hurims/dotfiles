@@ -1,4 +1,5 @@
 alias pogo="ssh -l root hurims.iptime.org"
+alias buildserver="ssh -l hurims 10.64.50.213"
 
 # Easier navigation: .., ..., ...., ....., ~ and -
 alias ..="cd .."
