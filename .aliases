@@ -1,3 +1,5 @@
+alias pogo="ssh -l root hurims.iptime.org"
+
 # Easier navigation: .., ..., ...., ....., ~ and -
 alias ..="cd .."
 alias ...="cd ../.."
