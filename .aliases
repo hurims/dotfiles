@@ -1,5 +1,6 @@
 alias pogo="ssh -l root hurims.iptime.org"
 alias buildserver="ssh -l hurims 10.64.50.213"
+alias ec2="ssh -i /Users/naver/Documents/aws/hurims_aws.pem ec2-user@ec2-54-250-231-149.ap-northeast-1.compute.amazonaws.com"
 
 # Easier navigation: .., ..., ...., ....., ~ and -
 alias ..="cd .."
